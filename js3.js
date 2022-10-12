@@ -6,3 +6,4 @@ let tomas = 24/ frecuencia;
 console.log("Horario")
 
 let Horario = hora_toma 
+
