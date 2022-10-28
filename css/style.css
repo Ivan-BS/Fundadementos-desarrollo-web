@@ -34,7 +34,7 @@ ul{
     padding: 0;
 }
 li{
-    float: right;
+    float: inline-start;
 }
 li a{
     display: block;
